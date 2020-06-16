@@ -1,0 +1,90 @@
+body {
+	background-image: url("Images/Themes.png");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+    font-family: "Open Sans", sans-serif;
+    color: #272829;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 150px;
+}
+
+.profile-pic {
+	border-radius: 50%; 
+	height: 200px;
+	width: 200px;
+	box-shadow: #202921 5px 5px 5px;
+	align-self: center;
+}
+
+.about {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.Education {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.coding-Profiles {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.projects {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.Internships {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.links {
+	text-decoration: none;
+	color: blue;
+}
+
+.contact {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.Heading {
+	font-style: italic;
+}
+
+.competitive {
+	
+}
+
+.DSA {
+
+}
+
+.other {
+
+}
+
+.Shift-left {
+	padding-left: 50px;
+	position: all;
+}
+
+.Intern-Header {
+	display: flex;                  
+  	flex-direction: row;
+  	flex-wrap: nowrap; 
+  	justify-content: space-between;
+}
+
+.icons {
+	height: 25px;
+	width: 25px;
+	border-radius: 50%;
+}
